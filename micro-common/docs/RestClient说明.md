@@ -41,7 +41,7 @@ sequenceDiagram
     - `server-provider-service`
     - `server-provider-api`
 
-- **serverB**:
+- **server-consumer**:
     - `server-consumer-controller`
     
 
