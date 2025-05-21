@@ -1,6 +1,6 @@
 # 说明: 
 
-## 拉取代码
+### 拉取代码
 
 * 拉取代码以后，在 `IDEA` 中打开，右下角有提示 `load maven script`, 这个可以点击，让 `IDEA` 自动加载 `maven` 依赖。</br>
 * 如果错过了，可以在项目的 `pom.xml` 上右键，选择 `Add as maven project`，也可以重新加载依赖。</br>
