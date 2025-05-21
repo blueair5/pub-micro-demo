@@ -77,4 +77,8 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>consumer-controller</module>
+    </modules>
+
 </project>
